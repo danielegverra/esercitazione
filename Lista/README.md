@@ -1,0 +1,3 @@
+# Lista #
+
+Una Lista (List) è una struttura dati astratta e dinamica (la memoria usata non è necessariamente fisicamente contigua) che denota una collezione omogenea o container di dati. L'accesso a un elemento della struttura avviene direttamente solo al primo elemento della sequenza; per accedere a un qualunque elemento, occorre scandire sequenzialmente tutti gli elementi che lo precedono; è una struttura dati dinamica poiché può cambiare di dimensione grazie alle operazioni di inserimento ed eliminazione di elementi, diversamente al caso degli array standard.
