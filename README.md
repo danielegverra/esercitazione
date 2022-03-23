@@ -1,1 +1,12 @@
-# esercitazione
+# C++ Data Structures
+
+In questa repository verranno pubblicate le strutture dati **funzionanti** studiate ed implementate ad Algoritmi e Strutture Dati
+
+Strutture funzionanti:
+    - Pila
+    - Coda
+    - Albero binario
+    - Albero n-ario
+    - Lista
+
+Questa repository è **wip**
