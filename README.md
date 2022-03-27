@@ -11,4 +11,3 @@ Strutture funzionanti:
 
 Questa repository è **wip**
 
-[![CI](https://github.com/danielegverra/esercitazione/actions/workflows/main.yml/badge.svg)](https://github.com/danielegverra/esercitazione/actions/workflows/main.yml)
